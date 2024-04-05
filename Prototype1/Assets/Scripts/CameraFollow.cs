@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 
-public class CameraFollow : MonoBehaviour
+][SerializeField] private class CameraFollow : MonoBehaviour
 {
     //Vehicle game object to follow
     public GameObject player;
